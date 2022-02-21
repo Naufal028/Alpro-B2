@@ -1,5 +1,4 @@
-//Nama : Muhammad Naufal
-//NIM : 24060120140157
+//Muhammad Naufal - 24060120140157
 
 #include <stdio.h>
 
