@@ -1,5 +1,7 @@
-// Muhammad Naufal -24060120140157
-// No.8 CekHari
+/*Nama File 	: No.8 CekHari*/
+/*Deskripsi 	: Menentukan dan menampilkan hari berdasarkan input nomor*/
+/*Pembuat   	: 24060120140157 - Muhammad Naufal*/
+/*Tgl Pembuatan	: 13 Maret 2021*/
 
 #include <stdio.h>
 #include <stdlib.h>
