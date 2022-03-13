@@ -1,5 +1,7 @@
-// Muhammad Naufal -24060120140157
-// No.9 CekBulan
+/*Nama File 	: No.9 CekBulan*/
+/*Deskripsi 	: Menentukan dan menampilkan bulan berdasarkan input nomor*/
+/*Pembuat   	: 24060120140157 - Muhammad Naufal*/
+/*Tgl Pembuatan	: 13 Maret 2021*/
 
 #include <stdio.h>
 #include <stdlib.h>
