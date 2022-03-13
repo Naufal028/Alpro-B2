@@ -1,5 +1,7 @@
-// Muhammad Naufal -24060120140157
-// No.10 CekSeriPositif
+/*Nama File 	: No.10 CekSeriPositif*/
+/*Deskripsi 	: Memeriksa apakah semua masukan positif atau tidak*/
+/*Pembuat   	: 24060120140157 - Muhammad Naufal*/
+/*Tgl Pembuatan	: 13 Maret 2021*/
 
 #include <stdio.h>
 #include <stdlib.h>
