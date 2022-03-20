@@ -1,5 +1,7 @@
-// Muhammad Naufal - 24060120140157
-// No.18 FaktorBil
+/*Nama File 	: No.18 FaktorBil*/
+/*Deskripsi 	: Menentukan faktor-faktor sebuah bilangan*/
+/*Pembuat   	: 24060120140157 - Muhammad Naufal*/
+/*Tgl Pembuatan	: 20 Maret 2021*/
 
 #include <stdio.h>
 #include <stdlib.h>
