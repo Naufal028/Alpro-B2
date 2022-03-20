@@ -1,5 +1,7 @@
-// Muhammad Naufal - 24060120140157
-// No.16 TunjAnak
+/*Nama File 	: No.16 TunjAnak*/
+/*Deskripsi 	: Menghitung pemberian tunjangan anak*/
+/*Pembuat   	: 24060120140157 - Muhammad Naufal*/
+/*Tgl Pembuatan	: 20 Maret 2021*/
 
 #include <stdio.h>
 #include <stdlib.h>
