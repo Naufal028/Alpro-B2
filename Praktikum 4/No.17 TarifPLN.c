@@ -1,5 +1,7 @@
-// Muhammad Naufal - 24060120140157
-// No.17 TarifPLN
+/*Nama File 	: No.17 TarifPLN*/
+/*Deskripsi 	: Menghitung jumlah tarif PLN*/
+/*Pembuat   	: 24060120140157 - Muhammad Naufal*/
+/*Tgl Pembuatan	: 20 Maret 2021*/
 
 #include <stdio.h>
 #include <stdlib.h>
