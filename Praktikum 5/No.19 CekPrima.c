@@ -1,5 +1,7 @@
-// Muhammad Naufal - 24060120140157
-// No.19 CekPrima
+/*Nama File 	: No.19 CekPrima*/
+/*Deskripsi 	: Menentukan apakah suatu bilangan termasuk bilangan prima atau bukan*/
+/*Pembuat   	: 24060120140157 - Muhammad Naufal*/
+/*Tgl Pembuatan	: 27 Maret 2021*/
 
 #include <stdio.h>
 #include <stdlib.h>
