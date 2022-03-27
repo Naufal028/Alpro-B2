@@ -29,4 +29,5 @@ int main(){
 			printf("\nBukan Bilangan Prima");
 		}
 	}
+	return 0;
 }
