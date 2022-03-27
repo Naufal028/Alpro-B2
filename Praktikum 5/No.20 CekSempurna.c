@@ -1,5 +1,7 @@
-// Muhammad Naufal - 24060120140157
-// No.20 CekSempurna
+/*Nama File 	: No.20 CekSempurna*/
+/*Deskripsi 	: Memeriksa apakah suatu bilangan integer termasuk bilangan sempurna*/
+/*Pembuat   	: 24060120140157 - Muhammad Naufal*/
+/*Tgl Pembuatan	: 27 Maret 2021*
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -23,4 +25,5 @@ int main(){
 	} else {
 		printf("\nBukan Bilangan Sempurna");
 	}
+	return 0;
 }
