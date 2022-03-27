@@ -1,5 +1,7 @@
-// Muhammad Naufal - 24060120140157
-// No.22 SiputNaik
+/*Nama File 	: No.22 SiputNaik*/
+/*Deskripsi 	: Menghitung berapa hari yang dibutuhkan oleh sebuah siput untuk mencapai ketinggian tertentu*/
+/*Pembuat   	: 24060120140157 - Muhammad Naufal*/
+/*Tgl Pembuatan	: 27 Maret 2021*
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -28,4 +30,5 @@ int main(){
 		}
 		printf("Dibutuhkan %f Hari", Hari);
 	}
+	return 0;
 }
