@@ -1,5 +1,7 @@
-// Muhammad Naufal - 24060120140157
-// No.23 Tetris
+/*Nama File 	: No.19 CekPrima*/
+/*Deskripsi 	: Membentuk susunan karakter ‘*’ sesuai deret bilangan 1 + 2 + 3 + 4 + 5 + … + N*/
+/*Pembuat   	: 24060120140157 - Muhammad Naufal*/
+/*Tgl Pembuatan	: 3 April 2021*/
 
 #include <stdio.h>
 #include <stdlib.h>
