@@ -1,5 +1,7 @@
-// Muhammad Naufal - 24060120140157
-// No.24 Tetris1
+/*Nama File 	: No.24 Tetris1*/
+/*Deskripsi 	: Membentuk susunan karakter ‘*’ sesuai deret bilangan N, …, 3, 2, 1*/
+/*Pembuat   	: 24060120140157 - Muhammad Naufal*/
+/*Tgl Pembuatan	: 3 April 2021*/
 
 #include <stdio.h>
 #include <stdlib.h>
