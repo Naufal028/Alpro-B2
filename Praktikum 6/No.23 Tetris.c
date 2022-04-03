@@ -1,5 +1,5 @@
 /*Nama File 	: No.23 Tetris*/
-/*Deskripsi 	: Membentuk susunan karakter ‘*’ sesuai deret bilangan 1 + 2 + 3 + 4 + 5 + … + N*/
+/*Deskripsi 	: Membentuk susunan karakter ‘*’ sesuai deret bilangan 1, 2, 3, 4, 5, …, N*/
 /*Pembuat   	: 24060120140157 - Muhammad Naufal*/
 /*Tgl Pembuatan	: 3 April 2021*/
 
