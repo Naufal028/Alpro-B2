@@ -1,3 +1,8 @@
+/*Nama File 	: 3. PALINDROM.c*/
+/*Deskripsi 	: Memeriksa apakah kalimat pada msein karakter adalah kalimat palindrom*/
+/*Pembuat   	: 24060120140157 - Muhammad Naufal*/
+/*Tgl Pembuatan	: 18 Mei 2021*/
+
 #include <stdio.h>
 #include <conio.h>
 #include <stdbool.h>
